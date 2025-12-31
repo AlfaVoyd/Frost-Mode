@@ -1,2 +1,0 @@
-# Frost-Mode
-AutoStrat
